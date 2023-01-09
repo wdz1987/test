@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 aaaaaa
+======
+fffffffffffffffff
+>>>>>>> hot_fix
 
 问题
 1，没有在连局中间活动导致连局消失。
